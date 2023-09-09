@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ko-dany/Ko-dany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,12 +23,13 @@ Here are some ideas to get you started:
           src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
       </div> -->
-      <h3>About ME</h3>
+      <h3>About ME👋</h3>
+      <p>😃 Hi there! I'm Dany.</p>
       <p>
-        Hi there! I'm Dany, currently studying Computer Programming & Analysis
-        at Conestoga College.
+        I'm currently studying Computer Programming & Analysis at Conestoga
+        College. 🎓
       </p>
-      <p>I'm interested in full-stack web development using Flask.</p>
+      <p>💻 I'm interested in full-stack web development using Flask.</p>
     </header>
     <main>
       <div>
