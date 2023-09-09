@@ -30,6 +30,7 @@ Here are some ideas to get you started:
         College. 🎓
       </p>
       <p>💻 I'm interested in full-stack web development using Flask.</p>
+      <strong>Looking for co-op opportunity starting May 2024!✨</strong>
     </header>
     <main>
       <div>
