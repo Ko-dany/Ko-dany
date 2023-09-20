@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         I'm currently studying Computer Programming & Analysis at Conestoga
         College. 🎓
       </p>
-      <p>💻 I'm interested in full-stack web development using Flask.</p>
+      <p>💻 I'm interested in full-stack software development.</p>
       <strong>Looking for co-op opportunity starting May 2024!✨</strong>
     </header>
     <main>
