@@ -31,6 +31,7 @@ Here are some ideas to get you started:
       </p>
       <p>💻 I'm interested in full-stack software development.</p>
       <strong>Looking for co-op opportunity starting May 2024!✨</strong>
+      ✔️ <a href="https://www.linkedin.com/in/dahyun-dany-ko/" target="_black" rel="noopener noreferrer">My LinkedIn Profile</a> ✔️
     </header>
     <main>
       <div>
