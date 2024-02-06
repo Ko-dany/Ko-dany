@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- **<center>A passionate and collaborative Software Developer</center>** -->
 
 - 🎓 I'm currently in 2nd year of Computer Programming & Analysis at Conestoga College.
-- 💻 I'm learning **C#**, **JavaScript** and **Python**.
+- 💻 I'm learning **C#**, **JavaScript**, **Java** and **Python**.
 - 📓 I use **ASP.NET Core**, **React.js**, **Flask** and **MySQL**.
 - ✨ I'm looking for a co-op opportunity **starting from May 2024, with 4-16 months** of flexibility.
 - 😆 I enjoy rock climbing and watching tv shows.
