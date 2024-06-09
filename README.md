@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi,%20I'm%20Dany!&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Hi,%20I'm%20Dany!&fontSize=90)
 <h3 align="center">👋 Nice to Meet You! 👋</h3>
 <div align="center">
   <p>Based on Waterloo, ON, Canada 🍂</p>
   <p>Co-op available from Sep,2024 - Aug,2025 🌱</p>
   <p>I love inspiration 💓</p>
 </div>
-
-
 <br>
 <h3 align="center">✨ My Skills ✨</h3>
 <p align="center">
@@ -54,7 +51,7 @@ Here are some ideas to get you started:
   <!--<a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp-->
   <a href="mailto:iamgo910@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamgo910@gmail.com"/></a>
 </p>
-
+<br><br>
 <!--
 <div align="center">
   <a href="https://github.com/Ko-dany/github-readme-stats">
