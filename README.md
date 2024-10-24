@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">👋 Nice to Meet You! 👋</h3>
 <div align="center">
   <p>Based on Waterloo, ON, Canada 🍂</p>
-  <p>Co-op available from Sep,2024 - Aug,2025 🌱</p>
-  <p>I love inspiration 💓</p>
+  <p>Co-op available from Jan,2024 - Aug,2025 🌱</p>
+  <p>I value team collaboration and bringing sustainable solutions 💓</p>
 </div>
 <br>
 <h3 align="center">✨ My Skills ✨</h3>
@@ -34,15 +34,17 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/ASP.NET-A9225C?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
-<!--  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 
   <!-- Others -->
   <br>
   <img src="https://img.shields.io/badge/Mysql-feca57?style=flat-square&logo=MySql&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/DevOps-CB2E6D?style=flat-square&logo=azuredevops&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/></a>&nbsp
 </p>
 <br>
 <h3 align="center">🐌 Let's Connect 🐌</h3>
