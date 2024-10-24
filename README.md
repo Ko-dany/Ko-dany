@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
   <p>Based on Waterloo, ON, Canada 🍂</p>
   <p>Co-op available from Jan,2024 - Aug,2025 🌱</p>
-  <p>I value team collaboration and sustainable solutions 💓</p>
+  <p>I currently work in DevOps team at <a href="https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/posts/?feedView=all" tartget="_blank" rel="noopener noreferrer">Virtual and Augmented Reality Lab</a>. 💻</p>
+  <p>Team collaboration and sustainable solutions 💓</p>
 </div>
 <br>
 <h3 align="center">✨ My Skills ✨</h3>
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">🐌 Let's Connect 🐌</h3>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/dahyun-dany-ko/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dahyun-dany-ko/"/></a>&nbsp
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/dahyun-dany-ko/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dahyun-dany-ko/"/></a>&nbsp
   <!--<a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp-->
   <a href="mailto:iamgo910@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamgo910@gmail.com"/></a>
 </p>
