@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>Based on Waterloo, ON, Canada 🍂</p>
   <p>Co-op available from Jan,2024 - Aug,2025 🌱</p>
-  <p>I value team collaboration and bringing sustainable solutions 💓</p>
+  <p>I value team collaboration and sustainable solutions 💓</p>
 </div>
 <br>
 <h3 align="center">✨ My Skills ✨</h3>
