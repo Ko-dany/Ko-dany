@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Hi,%20I'm%20Dany!&fontSize=90)
 <h3 align="center">👋 Nice to Meet You! 👋</h3>
 <div align="center">
-  <p>Based on Waterloo, ON, Canada 🍂</p>
+  <p>Based in Waterloo, ON, Canada 🍂</p>
   <p>Co-op available from Jan,2024 - Aug,2025 🌱</p>
   <p>I currently work in DevOps team at <a href="https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/posts/?feedView=all" tartget="_blank" rel="noopener noreferrer">Virtual and Augmented Reality Lab</a>. 💻</p>
   <p>Team collaboration and sustainable solutions 💓</p>
