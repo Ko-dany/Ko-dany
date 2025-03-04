@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">👋 Nice to Meet You! 👋</h3>
 <div align="center">
   <p>Based in Waterloo, ON, Canada 🍂</p>
-  <p>Co-op available from Jan,2024 - Aug,2025 🌱</p>
-  <p>I currently work in DevOps team at <a href="https://www.linkedin.com/company/varlab-virtual-and-augmented-reality-lab/posts/?feedView=all" tartget="_blank" rel="noopener noreferrer">Virtual and Augmented Reality Lab</a>. 💻</p>
-  <p>Team collaboration and sustainable solutions 💓</p>
+  <p>Co-op available from May,2025 - Aug,2025 🌱</p>
+  <p>Currently work at <a href="https://www.ocas.ca/what-we-do/ontariocolleges" tartget="_blank" rel="noopener noreferrer">OCAS</a> as a Co-op Quality Analyst. 💻</p>
+  <p>Passionate about automation and sustainable solutions 💓</p>
 </div>
 <br>
 <h3 align="center">✨ My Skills ✨</h3>
@@ -38,11 +38,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-feca57?style=flat-square&logo=MySql&logoColor=black"/></a>&nbsp
 
   <!-- Others -->
   <br>
-  <img src="https://img.shields.io/badge/Mysql-feca57?style=flat-square&logo=MySql&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/DevOps-CB2E6D?style=flat-square&logo=azuredevops&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/></a>&nbsp
