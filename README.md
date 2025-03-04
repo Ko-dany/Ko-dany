@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">🐌 Let's Connect 🐌</h3>
 <p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://ko-dany.github.io/"><img src="https://img.shields.io/badge/Portfolio-417598?style=flat-square&logo=github&logoColor=white&link=https://ko-dany.github.io/"/></a>&nbsp
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/dahyun-dany-ko/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dahyun-dany-ko/"/></a>&nbsp
   <!--<a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp-->
   <a href="mailto:iamgo910@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamgo910@gmail.com"/></a>
