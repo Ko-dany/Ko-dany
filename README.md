@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 <div align="center">
   <p>Based in Waterloo, ON, Canada 🍂</p>
   <p>Co-op available from May,2025 - Aug,2025 🌱</p>
-  <p>Currently work at <a href="https://www.ocas.ca/what-we-do/ontariocolleges" tartget="_blank" rel="noopener noreferrer">OCAS</a> as a Co-op Quality Analyst. 💻</p>
-  <p>Passionate about automation and sustainable solutions 💓</p>
+  <p>Passionate about creative thinking and sustainable solutions 💓</p>
 </div>
 <br>
 <h3 align="center">✨ My Skills ✨</h3>
 <p align="center">
   <!-- Languages -->
+    <img src="https://img.shields.io/badge/C%23-006600?style=flat-square&logo=C%23&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C%23-006600?style=flat-square&logo=C%23&logoColor=white"/></a>&nbsp 
 <!--   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/Python-004088?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
