@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 <h3 align="center">👋 Nice to Meet You! 👋</h3>
 <div align="center">
   <p>Based in Waterloo, ON, Canada 🍂</p>
-  <p>Co-op available from May,2025 - Aug,2025 🌱</p>
+  <p>Computer Programming & Analysis at Conestoga College 🌱</p>
+  <p>Software Engineer at <a target="_blank" rel="noopener noreferrer" href="https://www.acceldata.io/">Acceldata</a> 💻</p>
   <p>Passionate about creative thinking and sustainable solutions 💓</p>
 </div>
 <br>
 <h3 align="center">✨ My Skills ✨</h3>
 <p align="center">
   <!-- Languages -->
-    <img src="https://img.shields.io/badge/C%23-006600?style=flat-square&logo=C%23&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C%23-006600?style=flat-square&logo=C%23&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-037590?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
 <!--   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp -->
@@ -41,11 +43,11 @@ Here are some ideas to get you started:
 
   <!-- Others -->
   <br>
-  <img src="https://img.shields.io/badge/DevOps-CB2E6D?style=flat-square&logo=azuredevops&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Azure-008AD7?style=flat-square&logo=azuredevops&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>&nbsp 
 </p>
 <br>
 <h3 align="center">🐌 Let's Connect 🐌</h3>
